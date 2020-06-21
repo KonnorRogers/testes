@@ -2,8 +2,10 @@
 <html>
   <head>
     <title>Testes</title>
+    <meta name="action-cable-auth-token" content="<%= @token %>"/>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
+    <%= action_cable_meta_tag %>
 
     <%= javascript_pack_tag 'application' %>
   </head>
