@@ -1,3 +1,4 @@
+```
 Clone https://github.com/leastbad/stimulus_reflex to ~/stimulus_reflex and check out the params branch
 Inside ~/stimulus_reflex/javascript run: yarn link
 
@@ -42,3 +43,4 @@ I don't think it's reasonable to expect anyone to require_relative in their chan
 But this does already feel like progress
 
 Help MUCH appreciated - I'm at the extents of my familiarity with Ruby modules in this moment
+```
